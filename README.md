@@ -1,0 +1,11 @@
+# WINFORMMINIMES
+MINI MES 개인프로젝트 생산공정관리 일부분만 구현하였으며
+(작업지시등록, 작업지시수정, 지시삭제, 작업시작(PLC), 작업종료(PLC), 실적 등록/완료, 실적조회,데쉬 보드) 
+계속 진행중입니다. 
+C#, MSSQL, EF CORE, DAPPER, 비동기, 멀티스레드, 시리얼통신(com0com, 허큘러스 활용)MVVM 패턴을 활용하여 개발하였습니다. 
+작업시작, 작업종료 같은경우 실제 plc장비제어의 느낌을 주기위해 com0com, 허큘러스를 활용하여 테스트 진행했으며 작업수량이 완료되면
+자동종료 되거나 작업종료 버튼으로 강제 종료할수있습니다. 
+계속 개발 진행중입니다.
+<img width="1900" height="1022" alt="화면 캡처 2026-02-27 192830" src="https://github.com/user-attachments/assets/5418ead9-7991-4ed5-8245-805f7d8da952" />
+<img width="1307" height="871" alt="화면 캡처 2026-02-27 192736" src="https://github.com/user-attachments/assets/5747575a-df1a-43e8-8784-3db11a8a420c" />
+
