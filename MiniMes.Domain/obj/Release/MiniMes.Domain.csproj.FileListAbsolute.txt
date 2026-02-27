@@ -1,0 +1,9 @@
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\bin\Release\MiniMes.Domain.dll.config
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\bin\Release\MiniMes.Domain.dll
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\bin\Release\MiniMes.Domain.pdb
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\bin\Release\System.ComponentModel.Annotations.dll
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\obj\Release\MiniMes.Domain.csproj.AssemblyReference.cache
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\obj\Release\MiniMes.Domain.csproj.CoreCompileInputs.cache
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\obj\Release\MiniMes..B01E5103.Up2Date
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\obj\Release\MiniMes.Domain.dll
+D:\WPFMINIMES\MiniMES\MiniMes.Domain\obj\Release\MiniMes.Domain.pdb

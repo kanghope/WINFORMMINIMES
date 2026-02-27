@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WINFORMMINIMES\\MiniMes.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\helpers\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\helpers\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\viewmodels\\workorderlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\viewmodels\\workorderlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03AE0B3-71B2-1055-65FC-A0405F910592}|..\\MiniMES.Infastructure\\MiniMES.Infastructure.csproj|d:\\winformminimes\\minimes.infastructure\\services\\serialdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workorderlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workorderlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workorderlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workorderlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workresultregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workresultregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\viewmodels\\workresultregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\viewmodels\\workresultregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workorderlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workorderlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workresultlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workresultlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workordereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workordereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\viewmodels\\workresultlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\viewmodels\\workresultlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workresultregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workresultregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|d:\\winformminimes\\minimes.client\\minimes.client\\forms\\workresultlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF962ED-F670-AE4C-392A-F0A768D05CBF}|MiniMes.Client\\MiniMes.Client.csproj|solutionrelative:minimes.client\\forms\\workresultlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\DashboardForm.Designer.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:31:24.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\DashboardForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\DashboardForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\DashboardForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:31:13.235Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SerialDeviceService.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMES.Infastructure\\Services\\SerialDeviceService.cs",
+              "RelativeDocumentMoniker": "..\\MiniMES.Infastructure\\Services\\SerialDeviceService.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMES.Infastructure\\Services\\SerialDeviceService.cs",
+              "RelativeToolTip": "..\\MiniMES.Infastructure\\Services\\SerialDeviceService.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAowB4BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:45:39.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "MiniMes.Client\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:45:06.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\LoginForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:11:49.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Program.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Program.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Program.cs",
+              "RelativeToolTip": "MiniMes.Client\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwEQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:43:25.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Helpers\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Helpers\\BaseViewModel.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Helpers\\BaseViewModel.cs",
+              "RelativeToolTip": "MiniMes.Client\\Helpers\\BaseViewModel.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:15:50.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\MainForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\MainForm.cs",
+              "RelativeToolTip": "MiniMes.Client\\MainForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:39:16.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\DashboardForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:32:27.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkOrderListForm.Designer.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderListForm.Designer.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkOrderListForm.Designer.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderListForm.Designer.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkOrderListForm.Designer.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:18:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkOrderListViewModel.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\WorkOrderListViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\ViewModels\\WorkOrderListViewModel.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\WorkOrderListViewModel.cs",
+              "RelativeToolTip": "MiniMes.Client\\ViewModels\\WorkOrderListViewModel.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:15:24.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkOrderListForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderListForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkOrderListForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderListForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkOrderListForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:15:02.383Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkOrderListForm.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderListForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkOrderListForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderListForm.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkOrderListForm.cs",
+              "ViewState": "AgIAAAsCAAAAAAAAAAAAACECAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:11:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkResultRegisterViewModel.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\WorkResultRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\ViewModels\\WorkResultRegisterViewModel.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\WorkResultRegisterViewModel.cs",
+              "RelativeToolTip": "MiniMes.Client\\ViewModels\\WorkResultRegisterViewModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:01:17.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkResultRegisterForm.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultRegisterForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkResultRegisterForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultRegisterForm.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkResultRegisterForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvw0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:47:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkResultListForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultListForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkResultListForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultListForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkResultListForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:15:01.464Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkResultListViewModel.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\WorkResultListViewModel.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\ViewModels\\WorkResultListViewModel.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\ViewModels\\WorkResultListViewModel.cs",
+              "RelativeToolTip": "MiniMes.Client\\ViewModels\\WorkResultListViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwFYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:00:49.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkResultRegisterForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultRegisterForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkResultRegisterForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultRegisterForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkResultRegisterForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:57:46.648Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkOrderEditForm.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderEditForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkOrderEditForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkOrderEditForm.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkOrderEditForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:47:15.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorkResultListForm.cs",
+              "DocumentMoniker": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultListForm.cs",
+              "RelativeDocumentMoniker": "MiniMes.Client\\Forms\\WorkResultListForm.cs",
+              "ToolTip": "D:\\WINFORMMINIMES\\MiniMes.Client\\MiniMes.Client\\Forms\\WorkResultListForm.cs",
+              "RelativeToolTip": "MiniMes.Client\\Forms\\WorkResultListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:51:50.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
